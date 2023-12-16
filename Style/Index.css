@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+h2 {
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+hr {
+    margin: 3px;
+    color: black;
+}
+body {
+    background-color: rgba(65, 105, 225, 0.685);
+}
